@@ -1,9 +1,8 @@
 # Hey, I'm Roshaan
 
-**Senior Full-Stack Developer** from Lahore, Pakistan. 5 years building enterprise web apps, SaaS platforms, and complex frontend systems.
+**Software Engineer** from Pakistan. 5 years building enterprise web apps, SaaS platforms, and complex frontend systems.
 
 I specialize in **Angular**, **React/Next.js**, and **TypeScript**, with deep experience in state management (RxJS, NgRx), HTML5 Canvas, and full-stack development with Node.js/NestJS.
-
 
 ## Tech Stack
 
